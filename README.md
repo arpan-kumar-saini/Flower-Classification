@@ -1,4 +1,4 @@
- # 🌸 Blooming Brilliance: Flower Classification with AI 🌸
+ # 🌸  Flower Classification  🌸
 
 
 
@@ -9,7 +9,7 @@
     <img src="https://github.com/arpan-kumar-saini/Flower-Classification/blob/main/Flowers.jpeg" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center"> 🌸Flowers Classification 🌸</h3>
+  <h3 align="center"> 🌸 Blooming Brilliance: Flower Classification with AI 🌸</h3>
 
   <p align="center">
     This project is an Artificial Intelligent project in the domain of image classification.
