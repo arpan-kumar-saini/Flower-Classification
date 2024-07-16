@@ -1,4 +1,4 @@
-# Cat-Vs-Dog-Image-Classification
+ # 🌸 Blooming Brilliance: Flower Classification with AI 🌸
 
 
 
@@ -6,10 +6,10 @@
 <br />
 <div align="center" id='readme-top'>
   <a href="">
-    <img src="https://github.com/ritu-singh-4002/Cat-Vs-Dog-Image-Classification/blob/main/catvsdog.jpeg" alt="Logo" width="180" height="80">
+    <img src="https://github.com/arpan-kumar-saini/Flower-Classification/blob/main/Flowers.jpeg" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Cat-Vs-Dog-Image-Classification</h3>
+  <h3 align="center"> 🌸Flowers Classification 🌸</h3>
 
   <p align="center">
     This project is an Artificial Intelligent project in the domain of image classification.
@@ -40,18 +40,19 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src='https://github.com/ritu-singh-4002/Cat-Vs-Dog-Image-Classification/blob/main/Cats%20vs%20Dogs.gif'>
+<img src='https://github.com/arpan-kumar-saini/Flower-Classification/blob/main/Flower%20classification.gif'>
 
-🐱🆚🐶 Developed an image classification system using AI to distinguish between cats and dogs.
+🌸 Blooming Brilliance: Flower Classification with AI
 
-🧠 Trained a robust convolutional neural network (CNN) on a comprehensive dataset, leveraging the power of deep learning.
+🖥️ Developed an advanced image classification system using AI, focusing on the enchanting world of flowers.
 
-🔄 Employed advanced techniques like transfer learning to enhance model performance, achieving exceptional accuracy.
+🔍 Trained a robust deep learning model, specifically a Convolutional Neural Network (CNN), on a comprehensive dataset.
 
-🎯 Fine-tuned model parameters and hyperparameters meticulously for optimal precision and reliability.
+🚀 Leveraged transfer learning techniques to elevate performance, adapting pre-trained models for exceptional accuracy.
 
-🚀 Thrilled to unveil the impact of AI in visual recognition—transforming data into meaningful insights!
+🎯 Fine-tuned model parameters and hyperparameters to achieve optimal precision in identifying diverse floral species.
 
+🌱 This project not only showcased the power of AI in botanical studies but also sparked new insights into leveraging technology for ecological conservation and beyond.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
